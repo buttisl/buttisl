@@ -5,17 +5,26 @@
     </a>
   </div>
 </div>
+<div  <img src="https://komarev.com/ghpvc/?username=thefreerangetester&color=blue" alt=""/>
+  <h1>
+  Bienvenido!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
-### :man_technologist: About Me :
-Soy un QA Tester Junior, con conocimientos tanto en Manual como Autimatización.
+### :man_technologist: Sobre mi :
+Soy un QA Tester, con conocimientos tanto en Manual como Autimatización. Aca vas a encontrar proyectos personales basados en mi formación y aprendizaje sobre distintos lenguajes y frameworks de automation testing.
 - :telescope: Actualmente hago trabajos de manera freelance mediante la página uTest, donde ya tuve la oportunidad de hacer algunas pruebas para empresas de gran nombre como lo son XBOX | PlayStation | Pokerstars | HBO | .
 
-- :seedling: Sigo capacitandome en lo que es automation testing, actualmente Java y Selenium. En un futuro espero sumar mas lenguajes y frameworks, asi completar un conjunto de habilidades útiles a la hora de asegurar la calidad.
+- :seedling: Sigo capacitandome en lo que es automation testing, actualmente con Java y Selenium. En un futuro espero sumar mas lenguajes y frameworks, asi completar un conjunto de habilidades útiles a la hora de asegurar la calidad de un proyecto.
 
 - :zap: En mi tiempo libre juego videojuegos y compito profesionalmente.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walter-caballo-visconte-tester/)
+- :mailbox:Contacto: [![Linkedin Badge](https://img.shields.io/badge/-Walter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walter-caballo-visconte-tester/)
 
 ---
 
@@ -44,7 +53,7 @@ Soy un QA Tester Junior, con conocimientos tanto en Manual como Autimatización.
 ### :fire: My Stats :
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buttisl" alt="buttisl" /></a> </p>
 <div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=thefreerangetester&theme=dark&background=000000" width="600"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=buttisl&theme=dark&background=000000" width="600"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefreerangetester&layout=compact&theme=vision-friendly-dark" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buttisl&layout=compact&theme=vision-friendly-dark" width="600"/>
