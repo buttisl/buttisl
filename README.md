@@ -5,7 +5,7 @@
     </a>
   </div>
 </div>
-<div  <img src="https://komarev.com/ghpvc/?username=thefreerangetester&color=blue" alt=""/>
+<div  <img src="https://komarev.com/ghpvc/?username=waltercabvis&color=blue" alt=""/>
   <h1>
   Bienvenido!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -17,14 +17,27 @@
 
 ---
 ### :man_technologist: Sobre mi :
-Soy un QA Tester, con conocimientos tanto en Manual como Autimatización. Aca vas a encontrar proyectos personales basados en mi formación y aprendizaje sobre distintos lenguajes y frameworks de automation testing.
-- :telescope: Actualmente hago trabajos de manera freelance mediante la página uTest, donde ya tuve la oportunidad de hacer algunas pruebas para empresas de gran nombre como lo son XBOX | PlayStation | Pokerstars | HBO | .
+Soy Tester QA con experiencia en pruebas manuales y automatización, enfocado en garantizar la calidad en cada etapa del desarrollo de software. Actualmente automatizo pruebas utilizando Java + Selenium, pero me encuentro en constante aprendizaje para evolucionar hacia un perfil de QA Engineer integral.
 
-- :seedling: Sigo capacitandome en lo que es automation testing, actualmente con Java y Selenium. En un futuro espero sumar mas lenguajes y frameworks, asi completar un conjunto de habilidades útiles a la hora de asegurar la calidad de un proyecto.
+Me apasiona mejorar los procesos de testing, buscando eficiencia, cobertura y detección temprana de errores. Por eso, estoy ampliando mis habilidades técnicas para incluir herramientas y conceptos clave como:
 
-- :zap: En mi tiempo libre juego videojuegos y compito profesionalmente.
+🔧 Cypress y Playwright para pruebas E2E modernas
 
-- :mailbox:Contacto: [![Linkedin Badge](https://img.shields.io/badge/-Walter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walter-caballo-visconte-tester/)
+☁️ AWS para integrar testing en entornos cloud
+
+🔄 CI/CD para mejorar los pipelines de integración y entrega continua
+
+🌐 APIs testing con Rest Assured
+
+🧠 Mejores prácticas de automatización, debugging y diseño de pruebas
+
+Mi objetivo es convertirme en un QA que aporte valor real a los equipos de desarrollo, no solo encontrando errores, sino también aportando soluciones y mejorando la calidad.
+
+- :telescope: Actualmente hago trabajos de manera freelance de testing Manual mediante la página uTest, donde ya tuve la oportunidad de hacer algunas pruebas para empresas de gran nombre como lo son XBOX | PlayStation | Pokerstars | HBO | .
+
+- 🎮 Además de la tecnología, me gustan los videojuegos y he llegado a competir profesionalmente.
+
+- :mailbox:Contacto: waltercabvis@gmail.com
 
 ---
 
@@ -51,9 +64,9 @@ Soy un QA Tester, con conocimientos tanto en Manual como Autimatización. Aca va
 ---
 
 ### :fire: My Stats :
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buttisl" alt="buttisl" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waltercabvis" alt="buttisl" /></a> </p>
 <div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=buttisl&theme=dark&background=000000" width="600"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=waltercabvis&theme=dark&background=000000" width="600"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buttisl&layout=compact&theme=vision-friendly-dark" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltercabvis&layout=compact&theme=vision-friendly-dark" width="600"/>
